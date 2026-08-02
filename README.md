@@ -24,5 +24,3 @@ Personal Book Manager is a simple web application that helps users organize and 
 - **Backend:**  Next.js API routes
 - **Database:** MongoDB
 - **Auth:** JWT  
-
-
